@@ -10,3 +10,7 @@ I've needed this info for some time. Figured I'd put it up for others in case th
 * **multiplayer_architecture.txt**: A fresh Multiplayer save with any number of farmhands. Game v1.5.6
 * **moddedsp_archetecture.txt**: A heavily modded and perfected single-player save using just shy of 200 mods including SVE, Ridgeside and Raffadax. Game v1.5.6
 * **remixedsp_architecture.txt**: Remixed singleplayer vanilla. Game v1.5.6
+
+## Added 2024-09-17
+
+* **mp_1_6_architecture.txt**: Fresh vanilla multiplayer save with one farmhand. Game v1.6.8.
